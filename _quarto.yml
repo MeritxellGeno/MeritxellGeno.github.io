@@ -1,0 +1,33 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Meritxell Genovart"
+  site-url: "https://meritxellgeno.github.io"
+  navbar: 
+    title: false
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "Research"
+        href: about.qmd
+      - text: "Study systems"
+        href: study-systems.qmd
+      - text: "Publications"
+        href: publications.qmd
+      - text: "People"
+        href: people.qmd
+      - text: "Collaborations"
+        href: collaborations.qmd
+    right:
+      - icon: github
+        href: https://github.com/MeritxellGeno
+      - icon: envelope
+        href: mailto:m.genovart@csic.es
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false

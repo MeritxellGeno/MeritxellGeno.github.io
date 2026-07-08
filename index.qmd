@@ -1,0 +1,72 @@
+---
+title: "Meritxell Genovart"
+description-meta: "Population ecology, demography, life-history evolution and conservation biology."
+---
+
+::: {.hero-card}
+
+::: {.home-profile}
+
+::: {.profile-sidebar}
+
+![](images/Genovart_poll.jpg){.home-photo}
+
+::: {.profile-links}
+[ORCID](https://orcid.org/0000-0003-2919-1288)
+
+[Google Scholar](https://scholar.google.es/citations?user=ZOOe0UkAAAAJ&hl=es)
+
+[GitHub](https://github.com/MeritxellGeno)
+
+[CEAB-CSIC](https://www.ceab.csic.es/en/){.extra-space-above}
+
+[Theelab](https://theelab.net/)
+
+[Bycatch](https://www.bycatch.csic.es/en/)
+
+[Biodiversity Challenges](https://biodiversitat.csic.es/cat/)
+:::
+
+:::
+
+::: {.home-text}
+
+My research is driven by the aim of understanding how life-history strategies and demographic processes shape ecological and evolutionary responses to environmental change, from individual populations and species to ecological communities. From a quantitative demographic perspective, I am interested in how differences among individuals, populations and species influence vulnerability, resilience and persistence, and how they may scale up to generate emergent patterns in natural systems.
+
+By combining long-term data from natural populations with statistical modelling, simulations and ecological theory, my work seeks to identify the demographic and evolutionary mechanisms underlying ecological change and to contribute to a more predictive ecology for biodiversity conservation.
+
+::: {.research-tags}
+[Demography]{.research-tag .tag-demography}
+[Population ecology]{.research-tag .tag-population}
+[Life-history strategies]{.research-tag .tag-lifehistory}
+[Conservation biology]{.research-tag .tag-conservation}
+[Biodiversity]{.research-tag .tag-biodiversity}
+[Resilience]{.research-tag .tag-resilience}
+:::
+
+::: {.contact-info}
+**Email:** [m.genovart@csic.es](mailto:m.genovart@csic.es)  
+**Affiliation:** Centre d'Estudis Avançats de Blanes ([CEAB-CSIC](https://www.ceab.csic.es/en/))
+:::
+:::
+:::
+:::
+
+::: {.home-photo-strip}
+
+
+![](images/Species_systems/Daniza.jpg)
+
+
+![](images/Species_systems/Calonectris.jpg)
+
+
+
+![](images/Species_systems/CarlesCarboneres_Corsa.jpeg)
+
+![](images/Species_systems/Puffinus.jpg)
+
+
+![](images/Species_systems/Baula_Karla.jpg)
+
+:::
