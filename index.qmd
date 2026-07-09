@@ -39,9 +39,13 @@ By combining long-term data from natural populations with statistical modelling,
 [Demography]{.research-tag .tag-demography}
 [Population ecology]{.research-tag .tag-population}
 [Life-history strategies]{.research-tag .tag-lifehistory}
-[Conservation biology]{.research-tag .tag-conservation}
 [Biodiversity]{.research-tag .tag-biodiversity}
+[Conservation biology]{.research-tag .tag-conservation}
 [Resilience]{.research-tag .tag-resilience}
+[Evolutionary Ecology]{.research-tag .tag-evolution}
+[Stochasticity]{.research-tag .tag-evolution}
+[Complex Systems]{.research-tag .tag-complex}
+
 :::
 
 ::: {.contact-info}

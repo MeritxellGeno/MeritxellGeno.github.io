@@ -7,19 +7,17 @@ description-meta: "Research interests of Meritxell Genovart in population ecolog
 ![](images/banners/Far_banya.jpg){.page-banner-img}
 :::
 
-My research uses quantitative demography to understand how differences among individuals, populations and species shape ecological responses to environmental change across scales. By combining long-term data from natural populations with statistical modelling, simulations and ecological theory, I investigate how life-history strategies, population structure and environmental variability interact to determine vulnerability, resilience and persistence.
+My research uses quantitative demography to understand how differences among individuals, populations and species shape ecological responses to environmental change across scales. By combining long-term data from natural populations with statistical modelling, simulations and ecological theory, I investigate how life-history strategies and population structure shape demographic processes within and among species, ultimately determining the persistence of populations and the resilience of ecological systems.
 
-A central aim of my work is to move from species-specific demographic responses towards a more general understanding of how life histories and population structure mediate the demographic consequences of environmental change. This perspective helps reveal the mechanisms through which individual variation, population dynamics and species differences scale up to generate emergent patterns of vulnerability, resilience and persistence across levels of biological organisation. At the same time, the detailed knowledge gained from particular species and systems can provide a stronger basis for biodiversity conservation.
+A central aim of my work is to move from species-specific demographic responses towards a more general understanding of the mechanisms linking demographic structure with ecological and evolutionary dynamics. This perspective can help reveal how individual variation, population dynamics, life-history diversity and species interactions generate emergent patterns of resilience across levels of biological organisation. At the same time, detailed knowledge of particular species and systems provides an essential basis for biodiversity conservation.
 
 ## Research lines
 
 ::: {.research-lines}
 
-- **Quantitative demography of structured populations** <!-- — demographic variation across individuals, populations, life stages and environments, and its consequences for population dynamics, viability and persistence. -->
+- **Individual heterogeneity** <!-- — consequences of individual quality, behavioural variation, personality, social cohesion and other sources of heterogeneity for survival, reproduction and population dynamics. -->
 
 - **Life-history strategies, vulnerability and resilience** <!-- — links between life-history variation, the fast–slow continuum, demographic buffering, demographic compensation and species-specific responses to environmental change. -->
-
-- **Individual heterogeneity** <!-- — consequences of individual quality, behavioural variation, personality, social cohesion and other sources of heterogeneity for survival, reproduction and population dynamics. -->
 
 - **Environmental stochasticity, rare events and perturbation regimes** <!-- — demographic and population-level consequences of temporal variability, extreme events, catastrophes and anthropogenic impacts. -->
 
@@ -27,7 +25,7 @@ A central aim of my work is to move from species-specific demographic responses 
 
 - **Demographic structure and community resilience** <!-- — extension of demographic and life-history theory to ecological communities, with emphasis on how population structure, species composition and life-history diversity shape emergent responses to perturbations. -->
 
-- **Transient dynamics and nonlinear responses** <!-- — Complex ecological dynamics.transient dynamics, nonlinear responses, stability, resilience, tipping points, regime shifts and critical transitions in ecological systems. -->
+- **Transient dynamics, nonlinear responses and multistability ** <!-- — Complex ecological dynamics.transient dynamics, nonlinear responses, stability, resilience, tipping points, regime shifts and critical transitions in ecological systems. -->
 
 - **Conservation demography** <!-- — application of demographic models, long-term individual-based data and population viability analyses to conservation problems, particularly in seabirds, marine megafauna and other threatened taxa. -->
 
@@ -35,4 +33,4 @@ A central aim of my work is to move from species-specific demographic responses 
 
 ### Keywords: 
 
-animal ecology; capture-recapture; community ecology; conservation biology; demography; stability/multistability; global change; individual heterogeneity; life-history evolution; life-history strategies; pace-of-life; population dynamics; population ecology; population structure; population viability analysis; quantitative ecology; resilience; social cohesion; statistical modelling; stochasticity; transient dynamics.
+animal ecology; capture-recapture; community ecology; complex systems; conservation biology; demography; stability/multistability; global change; individual heterogeneity; life-history evolution; life-history strategies; pace-of-life; population dynamics; population ecology; population structure; population viability; quantitative ecology; resilience; social cohesion; statistical modelling; stochasticity; transient dynamics.
