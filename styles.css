@@ -1823,3 +1823,35 @@
   padding-left: 1rem !important;
   padding-right: 1rem !important;
 }
+/* --- Species sections with small left image --- */
+
+.species-text {
+  margin-bottom: 2.2rem;
+}
+
+.species-photo-left {
+  float: left;
+  width: 180px;
+  height: 130px;
+  object-fit: cover;
+  object-position: center center;
+  border-radius: 18px;
+  margin: 0.25rem 1.2rem 0.6rem 0;
+  box-shadow: 0 8px 22px rgba(0, 0, 0, 0.12);
+}
+
+.species-text::after {
+  content: "";
+  display: block;
+  clear: both;
+}
+
+@media (max-width: 650px) {
+  .species-photo-left {
+    float: none;
+    width: 100%;
+    height: auto;
+    max-height: 220px;
+    margin: 0.4rem 0 1rem 0;
+  }
+}
