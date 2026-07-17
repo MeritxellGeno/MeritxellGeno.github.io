@@ -9,7 +9,7 @@ description-meta: "Research collaborations and scientific networks of Meritxell 
 
 My research is strongly based on collaborations with researchers from different fields, including population ecology, evolutionary ecology, conservation biology, ecological modelling, genetics, statistical ecology, physics and mathematics.
 
-I enjoy collaborating with enthusiastic researchers, both within and beyond my own field. Collaborations may grow from shared data, complementary methods, theoretical perspectives or simply from exchanging ideas around a common question. I especially value how this process often leads not only to answers, but also to new and more interesting questions than those we had at the beginning.
+I enjoy collaborating with enthusiastic researchers, both within and beyond my own field. Collaborations may grow from shared data, complementary methods, theoretical perspectives or simply from exchanging ideas around a common question. 
 
 ## Collaborators
 

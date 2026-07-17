@@ -22,7 +22,7 @@ Research is a collective process. This page brings together current and former s
 Pesquers en la Gavina Corsa: Factors Determinants i
 Conseqüències Demogràfiques.  
 **Period:** 2025–2026  
-**Co-supervision:** -
+
 :::
 :::
 
@@ -38,7 +38,7 @@ Conseqüències Demogràfiques.
 **Project:** Understanding the Spatial Distribution of Audouin’s Gull beyond Breeding Colonies in Catalonia: Insights from Citizen Science Data
 
 **Period:** 2025–2026  
-**Co-supervision:** -
+
 :::
 :::
 ::: {.person}
@@ -48,9 +48,9 @@ Conseqüències Demogràfiques.
 ### Andreu Rocamora Martorell
 
 **Master:** MSc in Complex Systems  
-**Project:** Title or short description of the project.  
+**Project:** Intraspecific Biomass Fluxes Reshape the Dynamics of Ecological Communities.  
 **Period:** 2025–2026  
-**Co-supervision:** Optional.
+
 :::
 :::
 
@@ -91,9 +91,9 @@ Conseqüències Demogràfiques.
 ::: {.person-text}
 ### Mar Leon Salmeron
 
-**Position:** MSc International Professional Practice (IMBRSea)
-**Project:** Fecundity Analysis of the Scopoli’s Shearwater (Calonectris diomedea) Colony at L'Illa de l'Aire, Menorca  
-**Period:** 2024  
+**Position:** MSc International Professional Practice (IMBRSea)<br>
+**Project:** Fecundity Analysis of the Scopoli’s Shearwater (*Calonectris diomedea*) Colony at L'Illa de l'Aire, Menorca<br>
+**Period:** 2024
 :::
 :::
 
@@ -103,10 +103,9 @@ Conseqüències Demogràfiques.
 ::: {.person-text}
 ### Katerina Klementisová
 
-**Degree:** Erasmus + Student (St. Andrews University). 
-**Project:** Statistical modelling for conservation biology.
-**Period:** 2019. 
-
+**Degree:** Erasmus+ Student, University of St Andrews<br>
+**Project:** Statistical modelling for conservation biology<br>
+**Period:** 2019
 :::
 :::
 
@@ -116,10 +115,9 @@ Conseqüències Demogràfiques.
 ::: {.person-text}
 ### Miquel Pons
 
-**Degree:** Msc Student Biodiversité, écologie, évolution (Université de Perpignan Via Domitia).  
-**Project:** Demographic analysis of resident long-finned pilot whale (Globicephala melas) in Strait of Gibraltar by multi-event capture-recapture modelling. 
-**Period:** 2017-2018. 
-
+**Degree:** MSc Student, Biodiversité, écologie, évolution, Université de Perpignan Via Domitia<br>
+**Project:** Demographic analysis of resident long-finned pilot whales (*Globicephala melas*) in the Strait of Gibraltar using multi-event capture-recapture modelling<br>
+**Period:** 2017–2018
 :::
 :::
 
