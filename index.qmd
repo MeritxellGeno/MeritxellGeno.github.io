@@ -18,9 +18,8 @@ description-meta: "Population ecology, demography, life-history evolution and co
 
 [GitHub](https://github.com/MeritxellGeno)
 
-[CEAB-CSIC](https://www.ceab.csic.es/en/){.extra-space-above}
 
-[Theelab](https://theelab.net/)
+[Theelab](https://theelab.net/){.extra-space-above}
 
 [Bycatch](https://www.bycatch.csic.es/en/)
 
