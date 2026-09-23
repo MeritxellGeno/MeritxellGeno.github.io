@@ -1,1 +1,44 @@
+---
+title: "Join us"
+---
+
+Are you curious about what allows species to persist and adapt as environments change? Our research connects field observations, long-term data, ecological theory, and computational modelling to understand dynamics across scales, from individuals and populations to communities and ecosystems. We explore how life-history strategies, interactions among species, environmental variability, and feedbacks shape these dynamics. We welcome people who enjoy learning, asking questions, sharing ideas, and working collaboratively.
+
+There are several ways to work with us: as an undergraduate or master's student, a PhD candidate, a postdoctoral researcher, or a visiting researcher during a sabbatical or shorter stay. Opportunities depend on the research fit, supervision capacity, and available funding.
+
+## Undergraduate and master's students
+
+If you are interested in a research project or internship, get in touch and tell us what questions excite you and what you would like to learn. A short stay can be a good way to get to know our research and explore ideas for a future project.
+
+## PhD candidates
+
+A PhD with us brings together ecological thinking, quantitative analysis, and field research. You should be keen to learn, enjoy modelling and programming, and be interested in collecting and interpreting field data. Much of our fieldwork involves Mediterranean seabirds, including work on dunes and islands. 
+
+You do not need to arrive knowing every method. Curiosity, initiative, and a willingness to learn matter. We particularly value people who share ideas openly, contribute to the group, and enjoy working with collaborators.
+
+You may come with your own funding or explore competitive Spanish and Catalan predoctoral grants with us. Eligibility and deadlines vary between calls. A short internship with the group before applying is highly recommended when feasible.
+
+Possible funding routes include:
+
+* [FPU grants](https://www.aei.gob.es/ayudas-fpu-2026)
+* [Joan Oró FI grants in Catalonia](https://tramits.gencat.cat/ca/tramits/tramits-temes/Ajuts-per-a-la-formacio-i-contractacio-de-personal-investigador-novell-FI-2019)
+* [Predoctoral contracts associated with funded research projects, FPI contracts](https://www.aei.gob.es/informe-interactivo-buscar-ayudas-comunidades-autonomas).
+
+## Postdoctoral researchers
+
+We welcome postdoctoral researchers who would like to develop a project with us, bring complementary expertise, and take part in a collaborative research environment. If you are considering an external fellowship, please contact us early enough to shape the proposal together.
+
+Potential funding routes include:
+
+* [Juan de la Cierva grants](https://www.aei.gob.es/convocatorias/buscador-convocatorias/ayudas-contratos-juan-cierva-2025)
+* [Beatriu de Pinós postdoctoral grants](https://tramits.gencat.cat/ca/tramits/tramits-temes/Ajuts-postdoctorals-Beatriu-de-Pinos-BP-2023)
+* [ATRAE. ATRAE aims to integrate internationally experienced researchers into the Spain research and innovation system, offering substantial funding and a clear pathway to stable, long-term positions.](https://www.aei.gob.es/en/atrae)
+
+## Visiting researchers and sabbaticals
+
+We also welcome enquiries from researchers interested in a sabbatical or a shorter research visit. Tell us what you would like to work on, when you hope to visit, and how our interests might connect. Visits are subject to space, timing, and funding arrangements.
+
+## Get in touch
+
+If you would like to explore an opportunity, email [Meritxell Genovart](mailto:m.genovart@csic.es) with a brief introduction, your research interests, the type of stay you have in mind, your expected dates, and a CV. If you are considering a specific grant, please mention it. We look forward to hearing what you would like to investigate together.
 

@@ -42,7 +42,7 @@ Conseqüències Demogràfiques.
 :::
 :::
 ::: {.person}
-![](images/people/name-surname.jpg){.person-photo}
+![](images/people/Andreu.jpeg){.person-photo}
 
 ::: {.person-text}
 ### Andreu Rocamora Martorell

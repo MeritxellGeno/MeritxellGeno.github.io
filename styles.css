@@ -1464,7 +1464,7 @@
   display: flex;
   gap: 0.7rem;
   width: max-content;
-  animation: study-scroll 90s linear infinite;
+  animation: study-scroll 70s linear infinite;
 }
 
 .study-carousel:hover .study-carousel-track {
@@ -1522,18 +1522,18 @@
   }
 
   .study-carousel-track {
-    animation-duration: 80s;
+    animation-duration: 70s;
   }
 }
 /* --- Slower study systems carousel --- */
 
 .study-carousel-track {
-  animation: study-scroll 150s linear infinite !important;
+  animation: study-scroll 80s linear infinite !important;
 }
 
 @media (max-width: 800px) {
   .study-carousel-track {
-    animation: study-scroll 150s linear infinite !important;
+    animation: study-scroll 80s linear infinite !important;
   }
 }
 /* --- Home text, keywords and contact block --- */

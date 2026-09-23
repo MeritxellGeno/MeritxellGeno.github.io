@@ -18,8 +18,7 @@ description-meta: "Population ecology, demography, life-history evolution and co
 
 [GitHub](https://github.com/MeritxellGeno)
 
-
-[Theelab](https://theelab.net/){.extra-space-above}
+<div style="height: 24px;" aria-hidden="true"></div>
 
 [Bycatch](https://www.bycatch.csic.es/en/)
 

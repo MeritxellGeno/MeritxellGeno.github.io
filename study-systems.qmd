@@ -88,6 +88,22 @@ Beyond seabirds and marine turtles, I have also occasionally worked with a range
 ![](images/Studysites/Port_BCN.jpg)
 :::
 
+::: study-slide
+![](images/Banners/Aire_26_2.jpg)
+:::
+
+::: study-slide
+![](images/Banners/Aire_26.jpg)
+:::
+
+::: study-slide
+![](images/Banners/Aire_mar.jpg)
+:::
+
+::: study-slide
+![](images/Studysites/Aire_camp.jpg)
+:::
+
 <!-- Repeated set for smooth infinite scrolling -->
 
 ::: study-slide
@@ -137,5 +153,22 @@ Beyond seabirds and marine turtles, I have also occasionally worked with a range
 ::: study-slide
 ![](images/Studysites/Port_BCN.jpg)
 :::
+
+::: study-slide
+![](images/Banners/Aire_26_2.jpg)
+:::
+
+::: study-slide
+![](images/Banners/Aire_26.jpg)
+:::
+
+::: study-slide
+![](images/Banners/Aire_mar.jpg)
+:::
+
+::: study-slide
+![](images/Studysites/Aire_camp.jpg)
+:::
+
 :::::::::::::::::::::::::::
 ::::::::::::::::::::::::::::
