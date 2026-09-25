@@ -18,8 +18,12 @@ website:
         href: publications.qmd
       - text: "People"
         href: people.qmd
+      - text: "Join us"
+        href: join-us.qmd
       - text: "Collaborations"
         href: collaborations.qmd
+
+        
     right:
       - icon: github
         href: https://github.com/MeritxellGeno
@@ -32,3 +36,6 @@ format:
     css: styles.css
     toc: false
     anchor-sections: false
+    include-in-header:
+      - text: |
+          <meta name="google-site-verification" content="0zf3fkTk4G6sEz_txolS93FAiGx9wi9hcuOX6dFUjDs" />

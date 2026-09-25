@@ -18,9 +18,11 @@ title: "Publications"
 
 - Oro, D., Doak, D.F., Giménez-Romero, À., Genovart, M. *Rare events and their role in ecological dynamics*. **Trends in Ecology and Evolution**, in press. DOI: [10.1016/j.tree.2026.07.012].
 
+- Campos, D., Cristín, J., Fernández-López, P., Lloret, R., Genovart, M., Bartumeus, F.
+*Dynamic Workforce Modulation and Foraging Efficiency in Eusocial Insect Colonies*. **PLOS Computational Biology**, in press.
+
 -  Oro, D., Ferrer, A., Bauzà, J., Genovart, M., Guardiola, M., Tirabassi, G. Aldezabal, A. *Large herbivores and abiotic drivers jointly shape spatiotemporal grassland dynamics in a subalpine ecosystem*. **Scientific Reports**,[10.1038/s41598-026-45843-0](https://doi.org/10.1038/s41598-026-45843-0).
 
- 
 - Radchuk, V., Jones, C., McLean, N., et al. *Changes in phenology mediate vertebrate population responses to temperature globally*. **Nature Communications**, 17, 479. DOI: [10.1038/s41467-025-68172-8](https://doi.org/10.1038/s41467-025-68172-8).
 
 ## 2025

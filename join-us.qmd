@@ -1,6 +1,11 @@
 ---
 title: "Join us"
+description-meta: "Information for joining the group."
 ---
+
+::: {.page-banner}
+![](images/banners/Aire_26_2.jpg){.page-banner-img}
+:::
 
 Are you curious about what allows species to persist and adapt as environments change? Our research connects field observations, long-term data, ecological theory, and computational modelling to understand dynamics across scales, from individuals and populations to communities and ecosystems. We explore how life-history strategies, interactions among species, environmental variability, and feedbacks shape these dynamics. We welcome people who enjoy learning, asking questions, sharing ideas, and working collaboratively.
 
